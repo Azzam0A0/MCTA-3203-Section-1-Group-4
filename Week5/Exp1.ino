@@ -1,5 +1,5 @@
 const int relay1 = 7;
-const int relay1 = 8;
+const int relay2 = 8;
 
 void setup() 
 {
